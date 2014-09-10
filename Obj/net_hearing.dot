@@ -1,0 +1,29 @@
+graph net_neuron{
+rankdir=LR;
+subgraph cluster_0{ "item3" [label=  "id neurona = 3\nCategoria= 0"];
+}
+subgraph cluster_1{ "item8" [label=  "id neurona = 8\nCategoria= 1"];
+}
+subgraph cluster_2{ "item4" [label=  "id neurona = 4\nCategoria= 2"];
+}
+subgraph cluster_3{ "item9" [label=  "id neurona = 9\nCategoria= 3"];
+}
+subgraph cluster_4{ "item2" [label=  "id neurona = 2\nCategoria= 4"];
+}
+subgraph cluster_5{ "item5" [label=  "id neurona = 5\nCategoria= 5"];
+}
+subgraph cluster_6{ "item10" [label=  "id neurona = 10\nCategoria= 6"];
+}
+subgraph cluster_7{ "item6" [label=  "id neurona = 6\nCategoria= 7"];
+}
+subgraph cluster_8{ "item11" [label=  "id neurona = 11\nCategoria= 8"];
+}
+subgraph cluster_9{ "item7" [label=  "id neurona = 7\nCategoria= 9"];
+}
+subgraph cluster_10{ }
+subgraph cluster_11{ "item1" [label=  "id neurona = 1\nCategoria = '+'"];
+}
+subgraph cluster_12{ "item0" [label=  "id neurona = 0\nCategoria = '='"];
+}
+
+}
